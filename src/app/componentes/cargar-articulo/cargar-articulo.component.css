@@ -1,0 +1,38 @@
+.entrada{
+    position: relative; 
+    
+}
+
+i{
+    position: absolute;
+    left: 15px;
+  top: 10px;
+}
+
+.form-control {
+    padding-left:40px ;
+}
+.form-select{
+    padding-left:40px ;
+}
+.card{ 
+    padding: 40px;
+    width: 500px;
+   padding: auto;
+   margin-top :20px ;
+    position: relative;
+   background-color: #d8dadf;
+}
+button{
+    width: 100%;
+}
+.libro{
+    position: relative;
+    top: -30px;
+}
+.archivo{
+    padding-left:40px ;
+}
+h5{
+    font-size: 40px;
+}

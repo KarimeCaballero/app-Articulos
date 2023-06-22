@@ -1,0 +1,28 @@
+.entrada{
+    position: relative; 
+    
+}
+
+i{
+    position: absolute;
+    left: 15px;
+  top: 10px;
+}
+
+.form-control {
+    padding-left:40px ;
+}
+.card{ 
+    padding: 50px;
+    width: 600px;
+   padding: auto;
+   margin-top :20px;
+   position:center;
+   background-color: #d8dadf;
+}
+button{
+    width: 100%;
+}
+h5{
+    font-size: 40px;
+}
